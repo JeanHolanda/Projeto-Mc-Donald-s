@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    background-image: url('./assets/McDonald´s\ Imagem\ de\ Fundo.png2.avif');
+    height: 75vh;
+}
+
+.image-fundo{
+    width: 100vw;
+    height: 75vh;
+}
+
+.button-traços{
+    margin-right: 15px;
+    background: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.button-traços img{
+    width: 35px;
+    height: auto;
+    display: block;
+}
+
+.mcdonalds-logo{
+    background: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.mcdonalds-logo img{
+    width: 40px;
+    height: auto;
+    display: block;
+}
+
+.menu{
+    position: absolute;
+    margin: -33% 4%;
+}
+
+.links{
+    position: absolute;
+    margin: -26.5% 7.2%;
+}
+
+.header-link{
+    color: #FFFFFF;
+    margin-right: 38px;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.enter{
+    position: absolute;
+    margin-left: 1225%;
+    height: 42px;
+    width: 160px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FFBC0D;
+    cursor: pointer;
+}
+
+.enter:hover{
+    opacity: 0.8;
+}
+
+.enter:active {
+    opacity: 0.6;
+}
+
+section {
+    position: relative;
+    margin-top: -23%;
+    margin-left: 7%;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 23px;
+}
+
+h1 {
+    margin-bottom: 17px;
+    font-weight: 900;
+    margin-top: 2.8%;
+    font-size: 48px;
+}
+
+.section-button{
+    background-color: #FFFFFF;
+    color: #111111;
+    height: 40px;
+    width: 155px;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.section-button:hover{
+    transform: scale(1.04);
+}
+
+nav {
+    height: 20vh;
+}
+
+.burguers{
+    display: flex;
+    margin: 2.3% 0 0 8%;
+    gap: 35px;
+    align-items: center;
+}
+
+.burguer{
+    display: flex;
+    font-size: 14px;
+    flex-direction: column;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    line-height: 20px;
+    text-align: center;
+    font-weight: 400;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.burguer:hover{
+    transform: scale(1.1);
+}
+
+.burguer-image{
+    display: flex;
+    height: 30px;
+    width: auto;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+#bebi-quer{
+    width: 45px;
+}
