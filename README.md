@@ -5,6 +5,10 @@ Clone da página inicial do site do McDonald's, desenvolvido com **HTML e CSS**,
 O projeto reproduz elementos principais da home, como menu de categorias, botões de destaque e interações visuais.
 
 ---
+🔗 **Acesse o projeto:**  
+https://jeanholanda.github.io/Mc-Donalds/
+
+---
 
 ## 🛠️ Tecnologias
 
