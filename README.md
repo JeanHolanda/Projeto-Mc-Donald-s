@@ -30,7 +30,11 @@ O projeto reproduz elementos principais da home, como menu de categorias, botõe
 - Melhorar responsividade  
 
 ---
+<p align="center">
+  <img src="https://github.com/JeanHolanda/Projeto-Mc-Donald-s/blob/main/assets/mcdonalds-home-notebook.png.png?raw=true" width= 675px>
+</p>
 
+---
 ## ⚠️ Aviso
 
 Projeto desenvolvido **exclusivamente para fins educacionais**, sem vínculo com a marca McDonald's.
